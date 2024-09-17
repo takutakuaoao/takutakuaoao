@@ -1,11 +1,9 @@
 ## Hi there 👋, I'm aotsuka.
 
 <p align="left">
+  <a href="http://x.com/ao__161"><img height="20" src="https://img.shields.io/twitter/follow/ao__161?style=flat&logo=x" /></a>
   <a href="https://github.com/takutakuaoao/takutakuaoao">
     <img src="https://komarev.com/ghpvc/?username=takutakuaoao" alt="takutakuaoao" />
-  </a>
-  <a href="http://twitter.com/ao__161">
-    <img height="20" src="https://img.shields.io/twitter/follow/ao__161?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/takutakuaoao">
     <img height="20" src="https://img.shields.io/github/followers/takutakuaoao?label=follow&logo=github&style=flat" />
